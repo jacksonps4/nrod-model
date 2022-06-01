@@ -1,0 +1,76 @@
+Company Name,Business Code,Numeric Code,ATOC Code
+Alliance Rail,ZB,14,AR
+Northern,ED,23,NT
+Transport for Wales,HL,71,AW
+c2c,HT,79,CC
+Caledonian Sleeper,ES,35,CS
+Chiltern Railway,HO,74,CH
+CrossCountry,EH,27,XC
+DC Rail,PO,34,ZZ
+East Midlands Trains,EM,28,EM
+Eurostar,GA,6,ES
+Hull Trains,PF,55,HT
+GB Railfreight,PE,54,ZZ
+Govia Thameslink Railway (Great Northern),ET,88,GN
+Govia Thameslink Railway (Thameslink),ET,88,TL
+Grand Central,EC,22,GC
+Great North Western Railway,LN,00,LN
+Great Western Railway,EF,25,GW
+Greater Anglia,EB,21,LE
+Heathrow Connect,EE,24,HC
+Heathrow Express,HM,86,HX
+Island Lines,HZ,85,IL
+Locomotive Services,LS,89,LS
+Lumo,LD,45,LD
+West Midlands Trains,EJ,29,LM
+London Overground,EK,30,LO
+LUL Bakerloo Line,XC,91,LT
+LUL District Line – Richmond,XE,93,LT
+LUL District Line – Wimbledon,XB,90,LT
+Merseyrail,HE,64,ME
+Network Rail (On-Track Machines),LR,15,LR
+Nexus (Tyne & Wear Metro),PG,56,TW
+North Yorkshire Moors Railway,PR,51,NY
+ScotRail,HA,60,SR
+South Western Railway,HY,84,SW
+South Yorkshire Supertram,SJ,19,SJ
+Southeastern,HU,80,SE
+Southern,HW,88,SN
+Swanage Railway,SP,18,SP
+TfL Rail,EX,33,XR
+TransPennine Express,EA,20,TP
+Virgin Trains,HF,65,VT
+London North Eastern Railway,HB,61,GR
+West Coast Railways,PA,50,WR
+JSD Rail Research & Development,RR,2,ZZ
+Victa Westlink Rail (defunct),PV,3,ZZ
+DB Cargo Charters,WA,4,ZZ
+DB Cargo Freight,WA,5,ZZ
+Rail Operations Group,PH,7,ZZ
+DB Cargo International,DA,8,ZZ
+Freightliner,DB,9,ZZ
+Serco Rail Operations,SD,10,ZZ
+Freightliner Heavy Haul,DH,11,ZZ
+Freight Europe (defunct),PN,12,ZZ
+Europorte Channel,PT,13,ZZ
+LORAM,LC,16,ZZ
+Network Rail (Internal use only),QA,17,ZZ
+Network Rail Virtual Freight Company,QJ,31,ZZ
+Wrexham and Shropshire (defunct),EI,32,WS
+Vintage Trains,TY,36,TY
+Seco Rail (defunct),RU,37,ZZ
+Carillion Rail CTRL (Phase 1) (defunct),RQ,38,ZZ
+Harsco,RT,39,ZZ
+Balfour Beatty Rail,RZ,40,ZZ
+Colas Rail,RG,42,ZZ
+Amey Fleet Services,RE,43,ZZ
+Carillion Rail,RB,44,ZZ
+SB (Swietelsky Babcock) Rail,RD,46,ZZ
+VolkerRail,RH,49,ZZ
+Pre Metro Operations,PK,52,ZZ
+SNCF Freight Services,PS,53,ZZ
+On Route Logistics,PM,59,ZZ
+Legge Infrastructure Services,LG,72,ZZ
+Network Rail Reserved Pathings (non-QJ),NR,92,ZZ
+Ffestiniog Railway,XJ,94,ZZ
+Direct Rail Services,XH,97,ZZ

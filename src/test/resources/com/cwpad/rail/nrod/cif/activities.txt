@@ -1,0 +1,399 @@
+-D
+-DA         
+-DC         
+-DD         
+-DOP        
+-DORRR      
+-DPR        
+-DRM        
+-DRMA       
+-DTW        
+-T          
+-TA         
+-TA C       
+-TA OP      
+-TA OPAE    
+-TA OPC     
+-TA OPL C   
+-TA RM      
+-TA RR      
+-TA TSC     
+-TAE        
+-TAEA       
+-TAEA RM    
+-TAEOPPR    
+-TAERM      
+-TC         
+-TC A       
+-TC A PR    
+-TC A TS    
+-TC A TSTW  
+-TC L       
+-TC PR      
+-TC RM      
+-TC TS      
+-TL         
+-TL A       
+-TL A C     
+-TL A C AERM
+-TL C       
+-TL C A     
+-TOP        
+-TPR        
+-TPRC       
+-TPROPAE    
+-TPRRM      
+-TRM        
+-TRMA       
+-TRMA PR    
+-TRMAE      
+-TRMC A     
+-TRMOP      
+-TRMPR      
+-TRR        
+-TRRA       
+-TRRA TS    
+-TRROP      
+-TRRPR      
+-TRRPRA     
+-TTS        
+-TX         
+-U          
+-UA         
+-UC         
+-UC A       
+-UPR        
+-URM        
+-UU         
+A           
+A -D        
+A -T        
+A -U        
+A AE        
+A AEC       
+A AERM      
+A BL        
+A C         
+A C -D      
+A C AERM    
+A C L       
+A C OP      
+A C RR      
+A C TS      
+A E RM      
+A H         
+A L         
+A N         
+A OP        
+A OPAE      
+A OPC       
+A OPC AERM  
+A OPL C     
+A OPL C AERM
+A OPRM      
+A OPTS      
+A PR        
+A PRRM      
+A RM        
+A RM-U      
+A RMOP      
+A RMPR      
+A RR        
+A RRC       
+A TS        
+A TSC       
+A TSRR      
+A TW        
+A X         
+AE          
+AE-TA       
+AEA         
+AEC         
+AEC A       
+AEC OP      
+AEOPC       
+AEOPPR      
+AERM        
+AERMA       
+AERMA -T    
+AERMN       
+BL          
+BLA         
+C           
+C -D        
+C -DTS      
+C -T        
+C -TPRRM    
+C -TRM      
+C -U        
+C -UA       
+C A         
+C A -T      
+C A -U      
+C A E       
+C A L       
+C A PR-T    
+C A RR      
+C A TS      
+C A TS-T    
+C A TSL     
+C A TSRR    
+C AE        
+C L         
+C L A       
+C L TS      
+C N         
+C OP        
+C RM        
+C RMA       
+C RMPR      
+C RR        
+C RRA       
+C RRL TS    
+C RRTS      
+C TS        
+C TSA       
+C TW        
+C X         
+D           
+D -D        
+D C         
+D R         
+D RM        
+D U         
+D X         
+E           
+H           
+H -T        
+H A         
+H BL        
+H RM        
+H X         
+HH          
+K -D        
+K -U        
+K D         
+K N         
+K R         
+K U         
+K U -U      
+L           
+L -DRR      
+L -T        
+L A         
+L A C       
+L A C AERM  
+L A TS      
+L C A       
+L C A RM    
+L C TS      
+L OP        
+L PR        
+L RM        
+L RR-U      
+N           
+N A         
+N C         
+N K         
+N RM        
+OP          
+OP-D        
+OP-T        
+OP-URM      
+OPA         
+OPA C       
+OPA RM      
+OPA X       
+OPAE        
+OPAEC       
+OPC         
+OPC -D      
+OPC -T      
+OPC -U      
+OPC A       
+OPC AERM    
+OPC RM      
+OPC RMA     
+OPL         
+OPL A       
+OPOR        
+OPPR        
+OPPRA       
+OPPRRM      
+OPRM        
+OPRM-D      
+OPRM-U      
+OPRM-UA     
+OPRMA       
+OPRMA -U    
+OPRMC       
+OPRMPR      
+OPRMPRA     
+OPRMX       
+OPRR        
+OPRRA       
+OPTS        
+OPW         
+OPX         
+OPX A       
+OPX RM      
+PR          
+PR-D        
+PRA         
+PRC A       
+PRE         
+PROP        
+PROPA RR    
+PROPAE      
+PROPRM      
+PRRM        
+PRRMA       
+PRRMC       
+PRRR        
+R           
+R D         
+R K         
+RM          
+RM-D        
+RM-T        
+RM-U        
+RMA         
+RMA -T      
+RMA -U      
+RMA C       
+RMA E       
+RMA OP      
+RMA PR      
+RMA X       
+RMAE        
+RMAEA       
+RMAEA -T    
+RMAEN       
+RMC         
+RMC -D      
+RMC A       
+RMD         
+RML         
+RMN         
+RMN C       
+RMOP        
+RMOPA       
+RMPR        
+RMPRA       
+RMPRC       
+RMPROP      
+RMRR        
+RMS         
+RMTW        
+RMU         
+RMW         
+RR          
+RR-D        
+RR-T        
+RR-U        
+RR-UL       
+RRA         
+RRA -T      
+RRA C       
+RRA OP      
+RRA PR      
+RRA TS      
+RRA TW      
+RRC         
+RRC -D      
+RRC A       
+RRE         
+RRL A       
+RROP        
+RROPA       
+RROPRM      
+RROR        
+RRPR        
+RRPRA       
+RRRM        
+RRRMPR      
+RRX         
+S           
+S A         
+S RM        
+T           
+T -D        
+T -DK       
+T -DRM      
+T -DRMK     
+T -T        
+T -U        
+T -UH       
+T -UK       
+T -URM      
+T A         
+T A X       
+T C         
+T H         
+T K         
+T K -D      
+T K -DRM    
+T K -U      
+T K KE      
+T K KEW     
+T K RM      
+T K RM-U    
+T K W       
+T K X       
+T KE        
+T PR        
+T R         
+T RM        
+T RM-D      
+T RM-U      
+T RMK       
+T RMK -D    
+T RMPR      
+T RMW       
+T RMX       
+T RR        
+T W         
+T W K       
+T X         
+T X -D      
+T X -DK     
+T X RM      
+TSA         
+TSA C L     
+TSC A       
+TW          
+TW-D        
+TW-T        
+TW-TA       
+TW-TX       
+TWA         
+TWA X       
+TWC         
+TWN         
+TWR         
+TWRM        
+TWRMA       
+TWUX        
+TWX         
+TWX A       
+U           
+U -U        
+U C         
+U K         
+U RM        
+U X         
+W           
+W A         
+W A -T      
+W C         
+W K D       
+W RM        
+X           
+X A         
+X C         
+X D         
+X N         
+X OP        
+X TW        
+X TWN       
+X U
