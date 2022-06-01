@@ -6,7 +6,7 @@
 
     <groupId>com.cwpad</groupId>
     <artifactId>nrod-model</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
 
     <name>NROD model</name>
     <description>
